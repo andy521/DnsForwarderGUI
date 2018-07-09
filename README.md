@@ -11,6 +11,6 @@
 3. 日志功能需要在DnsForwarder的配置文件<dnsforwarder.config>中的“LogFileFolder”项设置日志路径，如：“LogFileFolder Z:\WINRAR”
 
 下载：
-https://github.com/miaomiaosoft/PandaOCR/releases
+https://github.com/miaomiaosoft/DnsForwarderGUI/releases
 
 ![image](https://raw.githubusercontent.com/miaomiaosoft/DnsForwarderGUI/master/images/image01.png)
